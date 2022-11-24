@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vlodzimej/Documents/_PROJECTS/KraevedAPI/KraevedAPI/KraevedAPI.csproj": {}
+    "/Users/vlodzimej/Documents/_PROJECTS/KraevedAPI/KraevedAPI.csproj": {}
   },
   "projects": {
-    "/Users/vlodzimej/Documents/_PROJECTS/KraevedAPI/KraevedAPI/KraevedAPI.csproj": {
+    "/Users/vlodzimej/Documents/_PROJECTS/KraevedAPI/KraevedAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vlodzimej/Documents/_PROJECTS/KraevedAPI/KraevedAPI/KraevedAPI.csproj",
+        "projectUniqueName": "/Users/vlodzimej/Documents/_PROJECTS/KraevedAPI/KraevedAPI.csproj",
         "projectName": "KraevedAPI",
-        "projectPath": "/Users/vlodzimej/Documents/_PROJECTS/KraevedAPI/KraevedAPI/KraevedAPI.csproj",
+        "projectPath": "/Users/vlodzimej/Documents/_PROJECTS/KraevedAPI/KraevedAPI.csproj",
         "packagesPath": "/Users/vlodzimej/.nuget/packages/",
-        "outputPath": "/Users/vlodzimej/Documents/_PROJECTS/KraevedAPI/KraevedAPI/obj/",
+        "outputPath": "/Users/vlodzimej/Documents/_PROJECTS/KraevedAPI/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

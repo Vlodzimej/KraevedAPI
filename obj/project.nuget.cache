@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mfhjCzQKYE+vEFjLp1JlBgioN/II6D1XlSklIP0Ishl2JBKw1mo9hYSBpZC69hjhOweN47/AuX4ap7d58YQc3w==",
+  "dgSpecHash": "p05LYMkmkxoNc8c4Cs7RlXcQnm8ibzaXqjvLiI/Y+c9wqGnN3JyTmbNTk6NcBpWzqSwn8qY7jUNz59vp/Olg0A==",
   "success": true,
-  "projectFilePath": "/Users/vlodzimej/Documents/_PROJECTS/KraevedAPI/KraevedAPI/KraevedAPI.csproj",
+  "projectFilePath": "/Users/vlodzimej/Documents/_PROJECTS/KraevedAPI/KraevedAPI.csproj",
   "expectedPackageFiles": [
     "/Users/vlodzimej/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "/Users/vlodzimej/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
