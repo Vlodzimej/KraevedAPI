@@ -24,3 +24,5 @@ public class MetaType
     /// <value></value>
     public string Title { get; set; }
 }
+
+/// События 95f178b6-35a3-40a9-9af8-61a85ba44c6a

@@ -49,6 +49,25 @@ namespace KraevedAPI.Controllers
             return businessObject;
         }
 
+        
+        // GET: api/BusinessObject/5
+        [HttpGet("metatypeId/{metaTypeId}")]
+        public async Task<ActionResult<IEnumerable<BusinessObject>>> GetBusinessObjectByMetaTypeId(Guid metaTypeId)
+        {
+          if (_context.BusinessObjects == null)
+          {
+              return NotFound();
+          }
+            var businessObject = await _context.BusinessObjects.Where(bo => bo.MetaTypeId == metaTypeId).ToListAsync();
+
+            if (businessObject == null)
+            {
+                return NotFound();
+            }
+
+            return businessObject;
+        }
+
         // PUT: api/BusinessObject/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]

@@ -31,7 +31,7 @@ public class BusinessObject
     /// Метатип объекта
     /// </summary>
     /// <value></value>
-    public virtual MetaType? MetaType { get; set; }
+    //public virtual MetaType? MetaType { get; set; }
 
     /// <summary>
     /// Дата создания
