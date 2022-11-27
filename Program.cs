@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddDbContext<KraevedContext>(opt =>
-    opt.UseNpgsql("Host=localhost;Port=5432;Database=kraeved_db;Username=postgres;Password=340571578"));
+    opt.UseNpgsql("Host=178.250.159.110;Port=5432;Database=kraeved_db;Username=postgres;Password=340571578"));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
