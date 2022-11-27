@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NRbY+u3vV7lhgd9ttWMj4HwiE7GaD4G2WL4qc9OOrUZiXPqlkuIQzxVAC2dTyxLmBbsy1Ekwo22o9p4PxDUjnQ==",
+  "dgSpecHash": "uwJlI7i22cr5DEv2DG/bazRnlJBVH1awWWPpAZ0SBHfWeHUeO6gO6lc7GcLZkF0kKIjm2JyzXfWpga89uj3uCw==",
   "success": true,
   "projectFilePath": "/Users/vlodzimej/Documents/_PROJECTS/KraevedAPI/KraevedAPI.csproj",
   "expectedPackageFiles": [
@@ -80,6 +80,8 @@
     "/Users/vlodzimej/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/1.6.1/netstandard.library.1.6.1.nupkg.sha512",
     "/Users/vlodzimej/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/vlodzimej/.nuget/packages/npgsql/7.0.0/npgsql.7.0.0.nupkg.sha512",
+    "/Users/vlodzimej/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.0/npgsql.entityframeworkcore.postgresql.7.0.0.nupkg.sha512",
     "/Users/vlodzimej/.nuget/packages/nuget.common/6.3.1/nuget.common.6.3.1.nupkg.sha512",
     "/Users/vlodzimej/.nuget/packages/nuget.configuration/6.3.1/nuget.configuration.6.3.1.nupkg.sha512",
     "/Users/vlodzimej/.nuget/packages/nuget.dependencyresolver.core/6.3.1/nuget.dependencyresolver.core.6.3.1.nupkg.sha512",
